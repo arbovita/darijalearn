@@ -1,0 +1,88 @@
+{
+  "darija": [
+    {
+      "id": 1,
+      "arabic": "السلام",
+      "transliteration": "s-salam",
+      "english": "Hello / Peace",
+      "audioUrl": "https://example.com/audio/salam.mp3",
+      "category": "greetings"
+    },
+    {
+      "id": 2,
+      "arabic": "صباح الخير",
+      "transliteration": "sbah l-khir",
+      "english": "Good morning",
+      "audioUrl": "https://example.com/audio/sbah.mp3",
+      "category": "greetings"
+    },
+    {
+      "id": 3,
+      "arabic": "شكرا",
+      "transliteration": "shukran",
+      "english": "Thank you",
+      "audioUrl": "https://example.com/audio/shukran.mp3",
+      "category": "expressions"
+    },
+    {
+      "id": 4,
+      "arabic": "عفوا",
+      "transliteration": "afwan",
+      "english": "You're welcome / Excuse me",
+      "audioUrl": "https://example.com/audio/afwan.mp3",
+      "category": "expressions"
+    },
+    {
+      "id": 5,
+      "arabic": "لا",
+      "transliteration": "la",
+      "english": "No",
+      "audioUrl": "https://example.com/audio/la.mp3",
+      "category": "basic"
+    },
+    {
+      "id": 6,
+      "arabic": "نعم",
+      "transliteration": "eyyeh",
+      "english": "Yes",
+      "audioUrl": "https://example.com/audio/eyyeh.mp3",
+      "category": "basic"
+    },
+    {
+      "id": 7,
+      "arabic": "كيف حالك؟",
+      "transliteration": "kifak / kifik",
+      "english": "How are you?",
+      "audioUrl": "https://example.com/audio/kifak.mp3",
+      "category": "greetings"
+    },
+    {
+      "id": 8,
+      "arabic": "بخير، شكرا",
+      "transliteration": "bkhir, shukran",
+      "english": "Good, thanks",
+      "audioUrl": "https://example.com/audio/bkhir.mp3",
+      "category": "expressions"
+    },
+    {
+      "id": 9,
+      "arabic": "ما هو اسمك؟",
+      "transliteration": "shnu ismik?",
+      "english": "What is your name?",
+      "audioUrl": "https://example.com/audio/ismik.mp3",
+      "category": "basic"
+    },
+    {
+      "id": 10,
+      "arabic": "اسمي [...]",
+      "transliteration": "ismi [...]",
+      "english": "My name is [...]",
+      "audioUrl": "https://example.com/audio/ismi.mp3",
+      "category": "basic"
+    }
+  ],
+  "progress": {
+    "completedFlashcards": [],
+    "quizScores": []
+  }
+}
